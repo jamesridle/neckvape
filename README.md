@@ -1,2 +1,2 @@
 # neckvape
-Static website for neckvape.com
+Static website for neckvape.com.
